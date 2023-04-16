@@ -1,0 +1,101 @@
+
+
+  body {
+    background-image:  url(background.jpg); background-size: contain; background-repeat: no-repeat; background-size: 100%;
+  }
+
+  
+
+  #BOX{
+      filter: alpha(opacity=25);
+      position: absolute;
+      top: 90px;
+      left: 260px;
+      
+      background-color: black;
+      filter: opacity(50%);
+      width: 1000px;
+      height: 600px;
+      padding: 50px; 
+      border-radius: 20px 20px 20px 20px;
+  
+       
+  }
+
+  
+  
+  #logo{
+    position: absolute;
+    align-content:center;
+    width: auto;
+    height: 90px;
+    left: 650px;
+    top: 150px;  
+  }
+
+  #title{
+    position: absolute;
+    align-items:center;
+    width: auto;
+    height: 90px;
+    left: 580px;
+    top: 230px;
+    color: #00DD00;
+    font-family: Poppins;
+    font-size: 25px;
+    
+     }
+    
+.rectangle {
+  width: 540px;
+  height: 20px;
+  background: #00DD00;
+  margin: 200px;
+  margin-left: 345px;
+  margin-top: 280px;
+  margin-right: -300px;
+  position: absolute; 
+  padding-left: 270px;
+  padding-top: 6px;
+  padding-right: 30px;
+  padding-bottom: 6px;
+}
+
+#percentuale{
+  color: white;
+  font-family: Poppins;
+  margin-left: 280px;
+  margin-top: 350px;
+  position: absolute;
+  line-height: 30%;
+  margin-bottom: 5%;
+
+}
+
+#rectangle1 {
+  width: 300px;
+  height: 20px;
+  background: #F5B453;
+  position: relative;
+  border-radius: 4px;
+  line-height: 30%;
+  
+}
+#rectangle2 {
+  width: 230px;
+  height: 20px;
+  background: #1EC31E;
+  position: relative;
+  border-radius: 4px;
+  line-height: 30%;
+  border-bottom: 2px;
+
+}
+#rectangle3 {
+  width: 150px;
+  height: 20px;
+  background: #BE4141;
+  position: relative;
+  border-radius: 4px;
+  line-height: 20px;
+}
